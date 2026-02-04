@@ -15,7 +15,7 @@ It automatically collects and displays MP4 videos only, using your active Grok s
 	• You can generate your own videos inside the Extension
 	• Download your videos in bulk or single
 	• Delete your videos 
-
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/b183321a-22d4-4308-8dd3-c61543c95d30" />
 
 
 ## Installation:
