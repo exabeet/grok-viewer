@@ -11,10 +11,8 @@ It automatically collects and displays MP4 videos only, using your active Grok s
 	• Shows new videos instantly as soon as generation completes
 	• Loads existing videos from Grok Favorites automatically
 	• Lightbox video player with keyboard navigation
-	• Repeat / Create Video directly from the viewer
-	• You can generate your own videos inside the Extension
 	• Download your videos in bulk or single
-	• Delete your videos 
+	• Delete your videos and pics in bulk	
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/b183321a-22d4-4308-8dd3-c61543c95d30" />
 
 
