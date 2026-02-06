@@ -12,7 +12,8 @@ It automatically collects and displays MP4 videos only, using your active Grok s
 	• Loads existing videos and picture from Grok Favorites automatically
 	• Lightbox video and images player with keyboard navigation
 	• Download your videos and picture in bulk or single
-	• Delete your videos and picture in bulk	
+	• Delete your videos and picture in bulk
+	• Sort your videos and pictures 
 	
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/db8fa74f-8137-473a-b77d-f9ba5fa72c80" />
 
