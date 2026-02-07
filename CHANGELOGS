@@ -1,0 +1,27 @@
+[1.3.0] - 2026-03-07
+
+Archive downloads now display a “File ready” button and play a notification sound when the file is prepared.
+Large library downloads now show a progress bar under the download area.
+
+Changed
+Download All is now sequential (instead of parallel), making it significantly more reliable on large libraries.
+UI layout refined: improved action button placement, footer text, progress panel organization, and a more neutral background for readability.
+
+[1.2.9] - 2026-03-02
+Added
+
+New Images tab with a full lightbox experience: open, navigate, download all, and delete.
+Optional thumbnail autoplay (disabled by default).
+Video sorting by creation time.
+Ability to hide the “Content Moderated” moderation toast.
+Purge Cache button to recover when the extension becomes unresponsive or stuck.
+
+Changed
+
+First launch now loads Favorites immediately, then performs a single initial refresh afterward.
+Download All improved for large libraries by splitting downloads into parts when needed.
+Background and overlay layers simplified to improve UI responsiveness and overall performance.
+Refresh behavior is now manual only (no background auto-refresh).
+
+Fixed
+Delete Images now removes all images in a single pass and automatically purges cache after completion.
