@@ -1,0 +1,97 @@
+{
+  "manifest_version": 3,
+  "name": "Grok-Viewer",
+  "version": "1.3.2",
+  "description": "Viewer for Grok favorites video generation. No more hands \ud83e\udd1e\ud83c\udffb",
+  "icons": {
+    "16": "images/logo-extension.png",
+    "48": "images/logo-extension.png",
+    "128": "images/logo-extension.png"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "downloads",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://grok.com/*",
+    "https://assets.grok.com/*",
+    "https://imagine-public.x.ai/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; media-src https: blob:; connect-src https:; object-src 'self'"
+  },
+  "action": {
+    "default_title": "Grok-Viewer",
+    "default_icon": {
+      "16": "images/logo.svg",
+      "48": "images/logo.svg",
+      "128": "images/logo.svg"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://grok.com/*"
+      ],
+      "js": [
+        "moderation_toast_hider.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "https://grok.com/imagine/favorites*"
+      ],
+      "js": [
+        "favorites.js",
+        "inject.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "https://grok.com/imagine*"
+      ],
+      "js": [
+        "imagine.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "https://grok.com/imagine/favorites*"
+      ],
+      "js": [
+        "viewer-embed.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "audio/1.mp3",
+        "images/logo.svg",
+        "images/search.svg",
+        "images/download.svg",
+        "images/share.svg",
+        "images/close.svg",
+        "images/autoplay.svg",
+        "images/github2.svg",
+        "page-hook.js",
+        "embed.html",
+        "popup.js",
+        "images/github.svg",
+        "images/logo-extension.png"
+      ],
+      "matches": [
+        "https://grok.com/*"
+      ]
+    }
+  ]
+}
