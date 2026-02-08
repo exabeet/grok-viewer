@@ -1,3 +1,13 @@
+[1.3.1] - 2026-03-08
+
+Added pagination (32 items per page) for Videos and Images with Prev/Next and Last controls.
+
+Changed
+Page cache is capped to current ±1 to reduce memory.
+Downloads are now page‑scoped (“Download Page”).
+Reduced in‑memory item payloads to keep the UI responsive on huge libraries.
+
+
 [1.3.0] - 2026-03-07
 
 Archive downloads now display a “File ready” button and play a notification sound when the file is prepared.
