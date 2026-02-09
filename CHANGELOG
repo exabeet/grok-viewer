@@ -1,3 +1,9 @@
+[1.3.3] — 2026-03-09
+Grid: Added Grid view with nested generations + compilation download.
+Images: Updated delete flow to Grok’s new delete‑post endpoint.
+Downloads: Save‑as prompt for all downloads + “File ready” banner + sound.
+UI: Whole UI heavily refined and tooltips added across actions.
+
 [1.3.2] — 2026-03-08
 Pagination: Added First/Last + page jump for faster navigation.
 Performance: Thumbnails hover fix and lighter UI rendering.
