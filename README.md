@@ -2,9 +2,7 @@ README
 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/292ccabf-9c79-431d-bd34-68bc416787e5" />
 
-Grok Viewer is a Chrome extension that adds a dedicated video viewer for Grok Imagine video generations.
-
-It automatically collects and displays MP4 videos only, using your active Grok session.
+Grok‑Viewer is a hopefully simple and fast browser extension for Grok videos and images—packed with grid view, smart pagination, bulk downloads, and a slick lightbox workflow.
 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/428b4b09-ba30-4533-b2e9-be8ac87fab95" />
 
@@ -22,7 +20,7 @@ It automatically collects and displays MP4 videos only, using your active Grok s
 ## Installation
 
 **Clone or download the repository.**  
-**Open Chrome and navigate to chrome://extensions.**  
+**Open Chrome or Brave or Opera and navigate to chrome://extensions.**  
 **Enable Developer Mode.**  
 **Click “Load unpacked” and select the project directory.**  
 **Navigate to Grok Imagine to begin using the extension.** 
