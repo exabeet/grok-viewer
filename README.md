@@ -1,6 +1,6 @@
 README
 
-<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/2edcb84d-e7cb-4a6a-97f4-b74743e3e199" />
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/292ccabf-9c79-431d-bd34-68bc416787e5" />
 
 Grok Viewer is a Chrome extension that adds a dedicated video viewer for Grok Imagine video generations.
 
