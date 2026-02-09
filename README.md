@@ -1,6 +1,6 @@
 README
 
-Grok‑Viewer is a - hopefully - simple and fast browser extension for Grok videos and images—packed with grid view.
+Grok‑Viewer is a simple browser extension for Grok videos and images—packed with grid view.
 
 It let you easily browse Grok videos and images, view them in a cinematic mode, download single items or pages in bulk and manage everything with fast pagination and grid grouping.
 
