@@ -5,9 +5,9 @@ Grok‑Viewer is a simple browser extension for Grok videos and images—packed 
 It let you easily browse Grok videos and images, view them in a cinematic mode, download single items or pages in bulk and manage everything with fast pagination and grid grouping.
 
 
-<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/292ccabf-9c79-431d-bd34-68bc416787e5" />
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/1bbad6ab-f63d-4d1f-b1ea-32f3f2a24685" />
 
-<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/428b4b09-ba30-4533-b2e9-be8ac87fab95" />
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/fb1e30f7-34d2-4985-8530-5099adc37c4d" />
 
 ## What it does
 	
@@ -18,7 +18,7 @@ It let you easily browse Grok videos and images, view them in a cinematic mode, 
 	• Delete your videos and pictures in bulk
 	• Sort your videos & much more
 	
-<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/c7d40761-95a6-4351-b3ce-b71d2c401d35" />
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/bf028870-34e5-4226-88f5-abe43d2b7cea" />
 
 ## Installation
 
