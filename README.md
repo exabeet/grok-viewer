@@ -18,12 +18,14 @@ It automatically collects and displays MP4 videos only, using your active Grok s
 	• Sort your videos 
 	
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/c7d40761-95a6-4351-b3ce-b71d2c401d35" />
-## Installation:
+
+## Installation
+
 **Clone or download the repository.**  
 **Open Chrome and navigate to chrome://extensions.**  
 **Enable Developer Mode.**  
 **Click “Load unpacked” and select the project directory.**  
-**Navigate to Grok Imagine to begin using the extension.**  
+**Navigate to Grok Imagine to begin using the extension.** 
 
 Scope and limitations
 Grok Viewer is intended for personal use and operates only on content accessible to the logged-in user. The extension does not modify Grok content beyond user-initiated actions such as deletion.
