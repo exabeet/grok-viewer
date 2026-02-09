@@ -10,13 +10,13 @@ It let you easily browse Grok videos and images, view them in a cinematic mode, 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/428b4b09-ba30-4533-b2e9-be8ac87fab95" />
 
 ## What it does
-	• Displays all Grok Imagine videos in a clean grid interface
+	
+	• Displays all Grok Imagine videos and pictures in a clean grid interface
 	• Shows new videos and picture instantly as soon as generation completes
-	• Loads existing videos and picture from Grok Favorites automatically
 	• Lightbox video and images player with keyboard navigation
-	• Download your videos and picture in bulk or single
-	• Delete your videos and picture in bulk
-	• Sort your videos 
+	• Download your videos and pictures in bulk or single
+	• Delete your videos and pictures in bulk
+	• Sort your videos & much more
 	
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/c7d40761-95a6-4351-b3ce-b71d2c401d35" />
 
