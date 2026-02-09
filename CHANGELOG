@@ -1,3 +1,15 @@
+
+[1.3.4] — 2026-03-10
+Download modes: added robust 3-mode settings with proper mutual exclusivity.
+Settings stability: fixed the checkbox-state.
+Folder workflow: improved one-folder flow for single and bulk downloads, with persistent folder path and quick change action.
+Bulk downloads: optimized large archive handling with duplicate-skip logic, clearer progress states and notifications.
+Autoplay performance: reworked thumbnail autoplay pipeline to reduce UI freezes/lag while keeping full-page preview behavior.
+Thumbnail optimization: lowered preview quality for faster loading in both Videos and Images tabs.
+Settings added: you can choose how many videos to download and many other settings
+UI: Extensive cleaning and refinement of many graphic elements
+
+
 [1.3.3] — 2026-03-09
 Grid: Added Grid view with nested generations + compilation download.
 Images: Updated delete flow to Grok’s new delete‑post endpoint.
