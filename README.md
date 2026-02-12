@@ -10,6 +10,7 @@ It let you easily browse Grok videos and images, view them in a cinematic mode, 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/f487d4f9-3b0c-4a25-b9c6-22afff41aec5" />
 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/9e4cbc1b-1d40-442c-bdec-9666b8397d35" />
+
 ## What it does
 	
 	• Displays all Grok Imagine videos and pictures in a clean grid interface
