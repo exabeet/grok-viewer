@@ -7,7 +7,7 @@ It let you easily browse Grok videos and images, view them in a cinematic mode, 
 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/1bbad6ab-f63d-4d1f-b1ea-32f3f2a24685" />
 
-<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/f487d4f9-3b0c-4a25-b9c6-22afff41aec5" />
+<img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/21d3a834-1eaa-4ac2-b480-e67fdd7ec1ae" />
 
 <img width="1312" height="932" alt="Image" src="https://github.com/user-attachments/assets/9e4cbc1b-1d40-442c-bdec-9666b8397d35" />
 
