@@ -1,11 +1,11 @@
-[1.3.6] — 2026-03-13
+[1.3.6] — 2026-02-22
 Sequence video (manual): Added a new lightbox action to extract the last frame of the current video and use it as the next seed.
 Viewer UX: Added a sequence modal with frame preview, optional prompt, and Generate/Cancel controls.
 Generation bridge: Added viewer -> background -> imagine messaging to open/focus Imagine, upload the extracted frame, set/clear prompt, and click Generate.
 
 Thanks to @viktorv for this.
 
-[1.3.5] — 2026-03-12
+[1.3.5] — 2026-02-12
 Regen: Full in-lightbox regeneration flow (Normal + Grid) with regen.svg, integrated into current UX.
 Regen control: Up to 2 concurrent regenerations, 15s cooldown, and immediate stop support.
 New content highlight: New generations are visually highlighted with NEW ribbon/border, then cleared on open/select.
@@ -13,7 +13,7 @@ Lightbox player: Faster and more stable video loading with fallback sources, hyd
 Downloads: Stronger mode handling with remembered folder path and consistent behavior across single/lightbox/bulk.
 Prompt flow: Prompt button now supports copy or .txt export with prompt info.
 
-[1.3.4] — 2026-03-10
+[1.3.4] — 2026-02-10
 Download modes: added robust 3-mode settings with proper mutual exclusivity.
 Settings stability: fixed the checkbox-state.
 Folder workflow: improved one-folder flow for single and bulk downloads, with persistent folder path and quick change action.
@@ -24,13 +24,13 @@ Settings added: you can choose how many videos to download and many other settin
 UI: Extensive cleaning and refinement of many graphic elements
 
 
-[1.3.3] — 2026-03-09
+[1.3.3] — 2026-02-09
 Grid: Added Grid view with nested generations + compilation download.
 Images: Updated delete flow to Grok’s new delete‑post endpoint.
 Downloads: Save‑as prompt for all downloads + “File ready” banner + sound.
 UI: Whole UI heavily refined and tooltips added across actions.
 
-[1.3.2] — 2026-03-08
+[1.3.2] — 2026-02-08
 Pagination: Added First/Last + page jump for faster navigation.
 Performance: Thumbnails hover fix and lighter UI rendering.
 Downloads: Page downloads with clearer UI and tooltips. 
@@ -38,7 +38,7 @@ Share: You can now share your link.
 Memory: Minimized per-item payloads and tighter caching.
 UI: You can see now the current Grok-Viewer version clicking on the Github icon 
 
-[1.3.1] - 2026-03-08
+[1.3.1] - 2026-02-08
 
 Added pagination (32 items per page) for Videos and Images with Prev/Next and Last controls.
 
@@ -48,7 +48,7 @@ Downloads are now page‑scoped (“Download Page”).
 Reduced in‑memory item payloads to keep the UI responsive on huge libraries.
 
 
-[1.3.0] - 2026-03-07
+[1.3.0] - 2026-02-07
 
 Archive downloads now display a “File ready” button and play a notification sound when the file is prepared.
 Large library downloads now show a progress bar under the download area.
@@ -57,7 +57,7 @@ Changed
 Download All is now sequential (instead of parallel), making it significantly more reliable on large libraries.
 UI layout refined: improved action button placement, footer text, progress panel organization, and a more neutral background for readability.
 
-[1.2.9] - 2026-03-02
+[1.2.9] - 2026-02-02
 Added
 
 New Images tab with a full lightbox experience: open, navigate, download all, and delete.
