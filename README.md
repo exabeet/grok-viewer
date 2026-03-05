@@ -1,7 +1,6 @@
 README
 
-[DISCLAIMER
-// Unfortunately, I no longer have the time to update Grok-Viewer, nor, to be honest, the desire, since Grok's excessive moderation has made me lose the desire to continue this project. 
+[Unfortunately, I no longer have the time to update Grok-Viewer, nor, to be honest, the desire, since Grok's excessive moderation has made me lose the desire to continue this project. 
 At the moment, Grok-Viewer no longer works because Grok has modified some internal graphic structures. I will try to make it work again, but I can't promise anything.
 Sorry.]
 
